@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXMudiXx
-- 👀 I’m interested in PLC Coding
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in PLC Coding, Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
